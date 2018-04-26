@@ -10,7 +10,7 @@ async def on_message(message):
         await message.channel.send("@everyone")
         
         
-bot.run('NDE5NDg1NjQwMjI5NTE5Mzcw.DXxAyw.9jOnRztt5gvO7gb70_HSBQ1Icy4')
+bot.run('Mzg4NDc2MzM2Nzc3NDYxNzcw.DYgheQ.yW9j4XN1R5jABDcYFnTqeY9HzAQ')
         
         
         
